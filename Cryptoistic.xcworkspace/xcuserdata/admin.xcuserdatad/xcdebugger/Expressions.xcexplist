@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "ViewController.showMain():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.view.superview">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "HoverButton.draw(_:):HoverButton.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "bHovered">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MainController.updateLeftUi(button:):MainController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "btnCur">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MainController.numberOfRows(in:):MainController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "signalData">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in LoginController.loginClilck(_:):LoginController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "httpResponse.statusCode">
+            </PersistentString>
+            <PersistentString
+               value = "error">
+            </PersistentString>
+            <PersistentString
+               value = "reponseError">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "HoverButton.mouseDown(with:):HoverButton.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "bPressed">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
